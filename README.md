@@ -1,2 +1,2 @@
 # SpamBaazi
-ML model for Spam detection
+ML model for Spam detection (To be used for Other project :ok:)
